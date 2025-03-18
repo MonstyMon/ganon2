@@ -1,0 +1,13 @@
+1	0	no rank	root	25122819
+2	131567	superkingdom	Bacteria	4008677
+543	91347	family	Enterobacteriaceae	5122256
+561	543	genus	Escherichia	5149671
+562	561	species	Escherichia coli	5150000
+1224	3379134	phylum	Pseudomonadota	4692442
+1236	1224	class	Gammaproteobacteria	4743539
+83333	562	strain	Escherichia coli K-12	5150000
+91347	1236	order	Enterobacterales	4838415
+131567	1	no rank	cellular organisms	44802251
+511145	83333	no rank	Escherichia coli str. K-12 substr. MG1655	5150000
+3379134	2	kingdom	Pseudomonadati	4456401
+GCA_000005845.2	511145	file	GCA_000005845.2	5150000
